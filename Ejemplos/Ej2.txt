@@ -1,0 +1,31 @@
+#include<iostream>
+using namespace std;
+int main(){
+  int a=0,b=0,c=0;
+  char l01;
+  cout<<"ingrese un numero: ";
+  cin>>a;
+  cout<<"ingrese otro numero: ";
+  cin>>b;
+    while(a==b){
+if(a%2!=0){
+c=c+1;
+a=a+1;
+        int mifuncionrelargaquehaceunmontondecosas(int argumento1,int argumento2,int argumento3, int argumento4,int argumento5){
+                 cout<<"1=1"<<endl;
+        }
+
+        String nueva(int argumento1,int argumento2,int argumento3,int argumento4,int argumento5{
+        cout<<"esta es una prueba"<<endl;
+  }
+               for(a<=b){
+      c=c+1;
+                  a=a+1;
+   }
+             cout<<c<<endl;
+   cin.ignore();
+                 return 0;
+   }
+    }
+
+ }
